@@ -24,7 +24,7 @@ namespace _0va_Snake_Game
 
             Width = 16;
             Height = 16;
-            Speed = 10;
+            Speed = 15;
             Score = 0;
             Points = 100;
             GameOver = false;
